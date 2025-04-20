@@ -1,6 +1,8 @@
 # Fetch Cat Fact
-##  Technical test
+👉 [View the final result here](https://react-technical-test-catfact.vercel.app/) 👈
 
+
+##  Technical test
 This is a technical test I received, inspired by a challenge from [Midudev](https://youtu.be/XYpadB4VadY?si=qtmGFJ80y-w8bkD2).
 
 ### Test
@@ -17,4 +19,4 @@ Display an image of a cat with the first word on it.
 ```
 
 For this test I have created the project from cero without using `npm create vite`, this test it's from vanilla
-HTML and TypeScript, and that is the principal different, Midudev use for this test JS and I have use Typescript
+HTML and TypeScript, and that is the principal different, Midudev use for this test JS and I have use TypeScript
