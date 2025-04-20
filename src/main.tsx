@@ -1,7 +1,7 @@
 
 import React from 'react';
 import {createRoot} from 'react-dom/client'
-import {App} from "./page/App.tsx";
+import {App} from "./pages/App.tsx";
 
 const main = document.getElementById('root') as HTMLElement;
 
